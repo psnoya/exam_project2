@@ -1,0 +1,19 @@
+CSS in style.css
+
+body {
+    background-color: palegreen;
+
+}
+
+
+h1 {
+    color: olive;
+
+}
+
+button {
+    color: pink;
+    background-color: black;
+    border-color :purple;
+
+}
